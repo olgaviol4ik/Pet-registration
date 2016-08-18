@@ -1,12 +1,12 @@
 
-#Basic Project
+#Pet-registration
 
-*Simple Java Project*
+*Simple Pet-registration apllications*
 
 **Java 7**
 
 * Java Application
 
-Simple Java Application. 
+ 
 
 [OT](https://github.com/olgaviol4ik)
